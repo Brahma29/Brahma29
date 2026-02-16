@@ -45,7 +45,7 @@ motto: "If it doesn't ship, it doesn't count."
 
 <div align="center">
 
-`3+ years` shipping production software · `AI-native` products from zero to launch · `Full-stack` across React, Node, Python · `Obsessed` with LLMs, agents & developer tools
+`3+ years` shipping production software · `AI-native` products from zero to launch · `Full-stack` across React, Node, Python · `Tinkering` with LLMs, agents & developer tools
 
 </div>
 
